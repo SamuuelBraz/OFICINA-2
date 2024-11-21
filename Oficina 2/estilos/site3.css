@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+    background: lightcyan;
+  }
+    .um h1{
+      color: Lightgreen;
+      font-size: 25px;
+      font-family: sans-serif;
+    }
+    .um p{
+     color: darkblue;
+     font-size: 15px;
+     font-family: sans-serif;
+    }
+    .dois h2{
+      color: black;
+      font-size: 25;
+      font-family: sans-serif;
+    }
+    .dois p{
+      color: green;
+      font-size: 15px;
+      font-family: sans-serif;
+    }
+    .tres h3{
+      color: navajowhite;
+      font-size: 25px;
+      font-family: sans-serif;
+    }
+    .tres p{
+      color: blue;
+      font-size: 15px;
+      font-family: sans-serif;
+    }

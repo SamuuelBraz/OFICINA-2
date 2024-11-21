@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(pink, lightblue);
+  
+  }
+  h1{
+    text-align: center;
+    color: darkviolet
+    
+  }
+    table{ 
+      border: 1px solid darkblue;
+      margin: 0 auto;
+      margin-top: 30%
+
+    }
+    .sam{
+      text-align: center;
+    }
+    table td, table th{
+      border:1px solid ;
+      padding: 8px
+    }
